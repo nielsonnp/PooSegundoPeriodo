@@ -1,0 +1,16 @@
+package br.com.ifpb.aula7;
+
+public class Telefone {
+	
+	String numero;
+
+	public String getNumero() {
+		return numero;
+	}
+
+	public void setNumero(String numero) {
+		this.numero = numero;
+	}
+	
+
+}
